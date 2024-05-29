@@ -39,6 +39,11 @@ popular searches from the internet as a whole. As you are typing
 with each keypress. It may even suggest "google.com" before you finish typing
 it.
 
+Browsers analyze the input and match it against known URLs, search queries,
+and frequently visited sites.The autocomplete dropdown displays options based on
+the best matches, considering both your local history and global trends.
+Algorithms prioritize results based on factors like recency, relevance, and user behavior.
+
 The "enter" key bottoms out
 ---------------------------
 
@@ -543,6 +548,14 @@ common user interface elements are:
 * Refresh and stop buttons for refreshing or stopping the loading of
   current documents
 * Home button that takes you to your home page
+
+
+**Additional functionalities**
+
+* **Extensions and Add-ons:** Browsers allow you to install extensions or add-ons.
+ These small software programs extend the functionality of your browser.
+ They can modify and enhance the way you interact with websites, providing
+ additional features and tools. 
 
 **Browser High-Level Structure**
 
